@@ -21,6 +21,6 @@ A modern restaurant website redesign for **Stone Ove Pizza Valley**, a pizza cha
 Designed and developed by **Ahmad Nadeem** — Web Developer & Designer specialising in WordPress, Elementor, WooCommerce and Shopify websites, custom websites, redesigns and Local SEO. Based in Pakistan, working with clients worldwide.
 
 - Portfolio: https://ahmaddev.kesug.com
-- LinkedIn: https://www.linkedin.com/in/ahmad-nadeem-998599439
+- LinkedIn: https://www.linkedin.com/in/ahmadnadeem-dev
 - Email: ahmadnadeem1817@gmail.com
 - WhatsApp: https://wa.me/923149481244
